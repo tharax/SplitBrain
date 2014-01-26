@@ -1,0 +1,320 @@
+{“q”,”a1”,”a2”,”a3”}
+{38,38,38}
+
+
+
+
+101|0|| Welcome to Split Frame! Jump onto the first platform? (Press space to jump.)
+101|1|102|  Fuck Off.
+101|2|103|  Ok!
+101|3|104| I already know how to play this game mate.
+
+
+
+102|0||Holy Shit! Don't need to be so rude? Now enter the tunnel please?
+102|1|105.1|Fine. I'm sorry.
+102|2|105.2|Without killing the enemy? How bout no.
+102|3|105.3|I'm already a veteran in this game. Leave me alone please.
+
+
+103|0||Good. Jump on the enemy, then enter the tunnel.
+103|1|105.4|Ok!
+103|2|105.5|But I want to jump on top of the tunnel…
+103|3|105.6|What if i jump on to the top platform?
+	
+
+104|0| ....Good luck veteran.
+104|1| Thanks.
+104|2| This game is too easy.
+104|3| ....I'll beat the whole thing in 5 minutes.
+
+105.1| Apology accepted, good luck player!
+105.2| How bout you lose a life? Who's winning now?
+105.3| Ok... Fine.
+105.4| You're getting the hang of it! Have fun player!
+105.5| I guess you could do that. Have fun player!
+105.6| LOL OK.
+
+   	 
+   	 
+   	 
+   	 
+   	
+
+
+2|0||You enter a strange room. Hibiscus-flower wallpaper covers the walls and a single lamp shines in the center. What do you do? 
+2|1|3|I pray to Mithra for guidance.
+2|2|0|I solve the riddle, because I'm psychic. 
+2|3|4|Who are you and why are you talking to me?
+
+3|0||Praying to Mithra, a bold move. Roll a d20 to see what happens. 
+3|1|6|Natural 20, what now, nerd?
+3|2|6|(Palm the dice) Mithra be praised! A Natural 20, what noweth nerd?
+3|3|9|This is some weird foreplay. Keep going, I like it. 
+
+4|0||The ghost of David Beckham, the world’s greatest ghost magician, enters the room through a hidden door. In a high pitched voice, the ghost of David Beckham congratulates you. What do you do?
+4|1|7|(Action) Run, ghosts are no joke. 
+4|2|8|Thank the ghost of David Beckham with your mind voice, because you're psychic.
+4|3|9|This is some weird foreplay, keep going I like it. 
+
+5|0||Thank you for applying to join our company. Why do you think you would be a good fit here?
+5|1|19|I'm a hard worker, smart too!
+5|2|19|I want money, you have money.
+5|3||I can count to 10 in 3 languages. My mother, is a proud mother.
+
+6|0||Wow! Doesn't that give you a special item? 
+6|1||(Lie) I think Mithra gives me some extra gold this turn.
+6|2||(Lie) Yeah, I get a freaking MAGIC SWORD!
+6|3||(Mega lie) Just give me a machine gun, Nerd. 
+
+7|0||Screaming and shrieking, you skitter and crawl. Srugling to stand, as your cellphone calls. 
+7|1|6|ANSWER THE PHONE. 
+7|2|6|IGNORE THE PHONE. 
+7|3|3|EAT THE PHONE. 
+
+10|0||Welcome to Bacon Muffin! Would you like bacon on your bacon muffin?
+10|1|11|Yes.
+10|2|11|No.
+10|3|11|Much bacon.
+
+11|0||How about some guacamole! Its guca-GREAT!
+11|1|12|Yes.
+11|2|12|No.
+11|3|12|Much guacamole. 
+
+13|0||Thanks for choosing Bacon Muffin's muffins and bacon! That will be $12.50	
+13|1|14|(Give the money, leave in shame) Thanks. 
+13|2|14|Nothing taste better than diabetes feels. 
+13|3|15|Can I have that to go? 
+
+14|0||You sit down to eat your Bacon Muffin brand bacon muffin is silent shame. Alone. 
+14|1|15|(Eat the muffin slowly) 
+14|2|15|(Cry into a paper bag)
+14|3|15|(Order another muffin, you ate your first muffin before you sat down)
+
+15|0||A bus arrives at your stop. You didn't notice the number. What do you do? 
+15|1|16|Ask the driver where the bus is headed. 
+15|2|18|Try to talk to the driver, but forget how to English instead.
+15|3|3|Moon the bus. 
+
+16|0||The bus driver lifts her head and says, in a scratchy voice, "Henderson". 
+16|1|17|Nope. (Run)
+16|2|17|Nope nope nope. (Run faster)	
+16|3||Get on the bus (are you even reading this?)
+
+17|0||Undead Hendersonians poor out of the bus. Teeth gnashing, claws flying they seek your blood. A blue jeaned, black t-shirted horde of death. What do you do? 
+17|1||*Meet your fate.* 
+17|2||*Channel your inner Brad Pitt.*
+17|3||*Dive into a nearby psychiatrist office.* 
+
+19|0||I see, we are looking for a person who has 3 years experience. How many years of experience do you have? 
+19|1|17|Between enought and alot. 
+19|2|17|..... Three and a half? Maybe.
+19|3||Purple! 
+
+20|0||Your hired! Welcome aboard. You start monday!
+20|1|21|Really?
+20|2|22|That was easy. 
+20|3||"You're" 
+
+21|0||No, you swine. Get out of my office. Never call me again. 	
+21|1||But...
+21|2|17|What will I tell my cats? 	
+21|3|3|No YOU never call ME again! 
+
+22|0||So am I. 
+22|1||I'm gonna leave. 
+22|2||Oh my. 
+22|3||Everything is coming up Millhouse. 
+
+23|0||Hey Dude, you're awesome!
+23|1|24|No, you're awesome!
+23|2|25|Glad we're in agreement. 
+23|3|26|Please stop contacting me Todd. 
+
+24|0||Dude, you are AWESOME. 
+24|1||NA BITCH, YOU'RE AWESOME. 
+24|2||Can we stop, we do this like 50 times a day. 
+24|3||Turbo bro-fist yolo! 
+
+25|0||I'm just glad to be in anything.
+25|1||That's what your mum said. 
+25|2||I must go, my people need me. *flight boots*
+25|3||Thats just sad, bro. 
+
+26|0||Look, Donna, I thought that maybe we could get past this restraining order thing. I love you.
+26|1||Leave. Now. 
+26|2||The police are on their way. 
+26|3||Maybe I got you all wrong Todd.
+
+1000|0||You’ve reached the studio at Radio Funk Master, let us know how we can help after the tone. *BEEP*
+1000|1|1001|I want to request a song.
+1000|2|1002|I have a complaint.
+1000|3|1003|I DONT WANT TO TALK TO A MACHINE!
+	
+1001|0||To speak to an Operator, please press 1. To request a song, press 2. For HR, press 3. To hear the options again, press 4.
+1001|1|1004|*Press 1*
+1001|2|1005|*Press 2*
+1001|3|1006|*Press 4*
+
+1002|0||Hello? How can I help you?
+1002|1|1007|Oh thank god. I’ve been trying to request a song.
+1002|2|1005|Is this catering?
+1002|3|1006|I need to talk to the HR department.
+
+1003|0||Transferring you to IT.
+1003|1|1006|I didnt say IT!
+1003|2|1004|No! i need an operator!
+1003|3|1005|Sweet.
+
+1004|0||This is a recorded message.
+1004|1||For fucks sake.
+1004|2||NO FUCKING SHIT!
+1004|3||*Hang up*
+
+1005|0||Hi, you’ve reached Michaels phone, im not available, but leave a message.
+1005|1||Is this some kind of joke? You need to sort your machine out.
+1005|2||Who the hell is Michael?
+1005|3||Hi Michael, can you please give me a call back, asap? Cheers.
+
+1006|0||This is requests! We are out of the office until Thursday. Thanks!
+1006|1||No! No, Goddamnit!
+1006|2||You’ve got to be kidding me.
+1006|3||You’ve lost yourself a listener!
+
+1007|0||What? I think you’re confused. Who is this?
+1007|1||YOU called ME!
+1007|2||I’m not confused, I got transfered to you.
+1007|3||YES I AM CONFUSED! WHAT THE HELL IS GOING ON?
+
+1008|0||Hey, you’re three weeks behind on rent. I NEED that money!
+1008|1|1009|Awww, shit man. You know things have been tight for me recently! I need more time!
+1008|2|1010|You know I’m good for it, just give me a couple more days!
+1008|3|1011|Such Payment! So Doge. Very Wealth!
+
+1009|0||I dont give a shit, things are bad for everyone! I’ve got bills too!
+1009|1|1012|YOU DONT KNOW ME! YOU DONT KNOW WHAT ITS LIKE!
+1009|2|1014|You think you’ve got problems? Shit, you got it easy!
+1009|3|1013|Well I could… y’know. Give you… something
+
+1010|0||Thats what you always say! You gotta do better, you’ve got to cut me in on what you’ve got going on.
+1010|1|1012|I dont have anything going on! Who told you I got shit goin’ on?
+1010|2|1014|Tell you what, I’ll bring you in, but you’ve gotta chill on this rent bullshit.
+1010|3|1013|I have a daughter...
+
+1011|0||What on earth are you talking about?	
+1011|1|1015|So Crypto, many value, very marketplace
+1011|2|1012|I dont even know.
+1011|3|1012|Wow! Such ignorance, missed rocket!
+
+1012|0||Just get me my money, scumbag.	
+1012|1||Yeah yeah...
+1012|2||You know what? Im outta here! This place is a dump anyway!
+1012|3||Do you even know who you’re talking to? You’re just a nobody, I aint giving you nothin’
+	
+1013|0||Oh yeah? Well... Maybe we can work out a deal, eh?
+1013|1||Why dont you come in and make yourself comfortable...
+1013|2||You wont regret it, you’re gunna have a real good time!
+1013|3||We should have come to this arrangement years ago!
+
+1014|0||This better be worth my time...
+1014|1||Oh, you wont regret this!
+1014|2||Just remember I did you this favor.
+1014|3||I’ll see what I can do...
+
+1015|0||Many thanks! wow, very crypto, how can?
+1015|1||Slumdoge Millionaires!
+1015|2||To the moon!
+1015|3||wow.
+
+30|0||Hey, Liz. Did you ever finish making that game? 
+30|1|31|Too many gui problems, too many haters.  
+30|2|32|I quit that shit months ago Beth. 
+30|3|33|Problems Beth, known unknowns and unknown unknowns. You know. 
+
+31|0||Gui's can be tough. Weren't you going for a space theme? 
+31|1|34|Space Western. 
+31|2|35|More DS9 than BSG. 
+31|3||What? No. That was the last game. This one's set in Vichy France, so it's kinda faux-nazi-punk, but less offensive.
+
+34|0||Adios, space cowgirl. I loved Cowboy Bebop.
+34|1|37|I know right. That show still feels fresh after what, nearly 20 years? 
+34|2||Urgh, no. Everyone I tell about this either thinks it's a riff on bebop or Firefly.
+34|3||Ein's theme tune plays when you hover over the map. 
+
+37|0||I don't think I'll watch Space Dandy, I get that those fake tits are meant to be satirical but it still feels cheap. 
+37|1||You're over thinking it. The show is called Space Dandy, the main dude is worse than the bimbo's. Faye had fake tit's and she was great. 
+37|1||It grosses me out, I get that it's part of the trope too, but you know, why bother? 
+37|3||I don't care. The characters are surprising and the plots engaging. 
+
+32|0||And you've been doing what? Playing Skyrim? Trying to steal the neighbor's cat for three months? 
+32|1||You leave Skampy Fluffy Face out of this. 
+32|2|40| I'm doing things, I just need this time Beth. 
+32|3|41|Yes I play Skyrim. No I will not stop. I am the Dovakin. *Fus*
+
+40|0||You can't pay your rent in Iron Daggers Liz. 
+40|1||What about Elven Daggers? 70g a pop!
+40|2||Things will change soon, I can feel it. 
+40|3|| *FUS RO DAH*
+
+41|0||Dova-wa?
+41|1||*RO DAH*
+41|2||*RO DAH*
+41|3||*RO DAH*
+
+33|0||Stop your doublespeak Aes Sedai scum. 
+33|1||That's Boondocks, not series that never ends and then did end badly. 
+33|2||Known unknowns and unknown unknowns. It's not hard to follow.
+33|3||Hey Beth, the next statement is true. The previous statement is false. 
+
+35|0||The Sisko was a rip of The Sheridan.  
+35|1||You shut your damn mouth. Sisko saved The Prophet's! Ok, I will be quiet now. 
+35|2||There is nothing new under the sun, read your ecclesiastes.
+35|3||More beer than wine, seriously do we have any wine?
+
+50|0||Hello, what seems to be the problem? It’s been a while since your last checkup.
+50|1|51|I’m getting hairier. I think I might be a werewolf.
+50|2|52|I keep getting these headaches…
+50|3|53|Is my leg supposed to bend like this?
+
+51|0||Can I have a hair sample, please? I’ll need to do some tests, but I’m fairly sure you’re nuts.
+51|1||I want a second opinion! Goodbye!
+51|2||Well that all sounds reasonable, I… wait a second.
+51|3||I guess the thing that bit me was just a really hairy mugger.
+
+52|0||Have you been in an accident lately? You might be concussed.
+52|1||I don’t remember. Is that bad, doctor?
+52|2||Well, I was driving my car on a golf course. After that it gets kind of hazy…
+52|3||No, but I have been listening to a lot of prog-industrial grindcore death thrash bands.
+
+53|0||Oh my God you need to get to a hospital. I’m just an optometrist!
+53|1||Urrgh.
+53|2||Hurrghglglllffff.
+53|3||Well, I could use a new pair of glasses while I’m here.
+
+54|0||Hey, I’d like to order a large pizza, half pepperoni, half mushroom and onion.
+54|1||You’ve got the wrong number. Goodbye.
+54|2|55|Sure, do you want that pick up or delivery?
+54|3|56|That’s all very well, but what does the pizza *mean*?
+
+55|0||Uh can you deliver that, please? I should be in the database, I eat an ungodly amount of pizza.
+55|1|57|Sure, we can deliver. That’ll be $19.50 please.
+55|2||I’ll tell you what, I’ll forget this conversation ever happened if you do. This isn’t a pizzeria.
+55|3|56|First, I need you to convince me that you NEED this pizza.
+
+56|0||Pizza is a metaphor. It represents palimpsest, the layering of ingredients and toppings over an unchanging, eternal base. In its greasiness, pizza is analogous to the slippery, ever-changing nature of meaning and identity.
+56|1|58|I disagree. I think the mass-produced pizza is an endemic icon of total nihilism, a pale shadow of its own lack of coherence.
+56|2||Buh?
+56|3||Well, that was a surprisingly articulate response.
+
+57|0||Cool. Thanks. *Click*
+57|1||Ahh. Back to my thoughts.
+57|2||What an idiot. I’m not running a pizza place.
+57|3||Wait, maybe I AM a pizzeria. I should probably make this pie.
+
+58|0||I was just kidding. It’s pizza.
+58|1||Uh, so was I. Ha. Ha. Okayhangingupnowgoodbye.
+58|2||Have you read Zizek on pizza? It’s quite pertinent to this discussion. Hey, where’d you go?
+58|3||Guess what else? You’ve got the wrong number. Now who’s smart, sucker!?
+
+59|0||
