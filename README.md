@@ -1,4 +1,1 @@
-SplitBrain
-==========
-
-GlobalGameJam 2014 Submission
+This works on Windows 7. We can't promise anything else. It might need unity. It should work fine though.
