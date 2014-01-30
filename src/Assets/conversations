@@ -1,27 +1,20 @@
 {“q”,”a1”,”a2”,”a3”}
 {38,38,38}
 
-
-
-
 101|0|| Welcome to Split Frame! Jump onto the first platform? (Press space to jump.)
 101|1|102|  Fuck Off.
 101|2|103|  Ok!
 101|3|104| I already know how to play this game mate.
-
-
 
 102|0||Holy Shit! Don't need to be so rude? Now enter the tunnel please?
 102|1|105.1|Fine. I'm sorry.
 102|2|105.2|Without killing the enemy? How bout no.
 102|3|105.3|I'm already a veteran in this game. Leave me alone please.
 
-
 103|0||Good. Jump on the enemy, then enter the tunnel.
 103|1|105.4|Ok!
 103|2|105.5|But I want to jump on top of the tunnel…
 103|3|105.6|What if i jump on to the top platform?
-	
 
 104|0| ....Good luck veteran.
 104|1| Thanks.
@@ -34,13 +27,6 @@
 105.4| You're getting the hang of it! Have fun player!
 105.5| I guess you could do that. Have fun player!
 105.6| LOL OK.
-
-   	 
-   	 
-   	 
-   	 
-   	
-
 
 2|0||You enter a strange room. Hibiscus-flower wallpaper covers the walls and a single lamp shines in the center. What do you do? 
 2|1|3|I pray to Mithra for guidance.
