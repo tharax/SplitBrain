@@ -90,7 +90,7 @@ public class Conversations : MonoBehaviour {
 		}
 
 		//Select response based on Timer
-		float currentTime = Time.time;
+		currentTime = Time.time;
 		if ((currentTime - lastTime) >= timeBetweenChoices){
 			if (currentSelection == 1) {
 				currentConversation = b[currentConversation, 0];
