@@ -8,7 +8,6 @@ public class Player : MonoBehaviour {
 	GameObject gameInfo;
 	public Fire fire;
 	public CharacterMotor cMotor;
-	int direction = 0;
 	int lives;
 	private float maxLives = 3;
 	float upTimer; 
@@ -107,8 +106,7 @@ void Update () {
 	void CheckPlatform(){
 		RaycastHit hitDown;
 		 if (Physics.Raycast(transform.position, Vector3.down, out hitDown)) {
-            float distanceDown = hitDown.distance;
-			if(hitDown.collider.gameObject.CompareTag("Blue")){
+  			if(hitDown.collider.gameObject.CompareTag("Blue")){
 				if(hitDown.distance < 0.5){
 					
 				}
