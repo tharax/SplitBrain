@@ -21,9 +21,6 @@ public class Fire : MonoBehaviour {
 		
 	}
 	
-//	void OnGUI(){
-//		GUI.Label (new Rect(10,10, 150, 100), message);	
-//	}
 	void OnTriggerEnter(Collider other){
 		if(other.gameObject.CompareTag("Player")){
 			Destroy(other.gameObject);

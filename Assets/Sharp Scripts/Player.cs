@@ -32,8 +32,14 @@ public class Player : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-void Update () {
-		Normalize();
+	void Update () {
+		transform.position =  new Vector3(1.01f, transform.position.y, transform.position.z);
+		if(upTimer < Time.time){
+			invulnerable = false;
+		}
+		if( bloodTimer < Time.time){
+			drawBlood = false;
+		}
 	}
 	
 	void OnTriggerEnter(Collider other){
@@ -48,12 +54,7 @@ void Update () {
 				if(lives <= 0 ){
 					Die();
 				}
-//				int random = 1; Random.Range(0, 2);
-//				if (random == 1){
-//					transform.position =  new Vector3(transform.position.x, transform.position.y+2, transform.position.z);
-//				}
 			}
-			//transform.position = new Vector3(transform.position.y, transform.position.y+0.2f, transform.position.z);
 		}
 		else if(other.gameObject.CompareTag("Fire")){
 			Die();
@@ -70,22 +71,12 @@ void Update () {
 		}
 	}
 	
-	void Normalize(){
-		transform.position =  new Vector3(1.01f, transform.position.y, transform.position.z);
-		if(upTimer < Time.time){
-			invulnerable = false;
-		}
-		if( bloodTimer < Time.time){
-			drawBlood = false;	
-		}
-	}
-
 	void Die(){
-				Application.LoadLevel(8);
+		Application.LoadLevel(8);
 	}
 	
 	void Reset(){
-			cMotor.jumping.extraHeight = 1.1f;	
+		cMotor.jumping.extraHeight = 1.1f;
 	}
 	
 	void NextLevel(){
@@ -101,11 +92,11 @@ void Update () {
 	void CheckPlatform(){
 		RaycastHit hitDown;
 		 if (Physics.Raycast(transform.position, Vector3.down, out hitDown)) {
-  			if(hitDown.collider.gameObject.CompareTag("Blue")){
+			if(hitDown.collider.gameObject.CompareTag("Blue")){
 				if(hitDown.distance < 0.5){
-					
+
 				}
 			}
-        }
+		}
 	}
 }

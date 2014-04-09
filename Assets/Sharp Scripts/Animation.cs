@@ -52,12 +52,7 @@ public class Animation : MonoBehaviour
 	
 	void Move(int direction){
 
-				// Calculate index
-		//int index = (int)(Time.timeSinceLevelLoad * _fps) % (_uvTieX * _uvTieY);
 		int index = (int)((Time.time - startTime)* _fps) % (_uvTieX * _uvTieY);
-
-		//int index = (int)Time.time;
-
 
     	if(index != _lastIndex)
 		{		
