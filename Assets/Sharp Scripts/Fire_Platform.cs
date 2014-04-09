@@ -17,9 +17,5 @@ public class Fire_Platform : MonoBehaviour {
 			fire = !fire;
 			timer += 3;
 		}
-		if(fire){
-			
-		}
-	
 	}
 }

@@ -78,13 +78,8 @@ void Update () {
 		if( bloodTimer < Time.time){
 			drawBlood = false;	
 		}
-		//Camera.main.transform.position = new Vector3(0, 200, transform.position.z);
 	}
-	
-	void MakeInvulnerable(){
-		//invulnerable = true;
-		//	upTimer = Time.time + 3;
-	}
+
 	void Die(){
 				Application.LoadLevel(8);
 	}
@@ -96,7 +91,7 @@ void Update () {
 	void NextLevel(){
 		gameInfo.transform.position = new Vector3(0, 0, gameInfo.transform.position.z+1);
 		int nextLevel = (int)gameInfo.transform.position.z;
-		nextLevel = nextLevel %8;
+		nextLevel = nextLevel % 8;
 		if(nextLevel == 0){
 			nextLevel = 1;
 		}
@@ -113,5 +108,4 @@ void Update () {
 			}
         }
 	}
-
 }

@@ -4,7 +4,3 @@ function Start () {
 	gameObject.renderer.material.color.a = 0.5;
 
 }
-
-function Update () {
-
-}
