@@ -16,6 +16,7 @@ ExportedObj/
 *.csproj
 *.pidb
 *.suo
+!ConfuserStart.sln
 *.sln
 *.user
 *.unityproj
